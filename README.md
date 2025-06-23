@@ -8,9 +8,9 @@ Welcome to **Berger Hut**, a modern, fully responsive burger shop website built 
 
 ## 🔗 Live Demo
 
-👉 [View Website on GitHub Pages](https://your-username.github.io/your-repo-name)
+👉 [View Website on GitHub Pages]([https://your-username.github.io/your-repo-name](https://github.com/RushikeshJadhav2004/burger-web-Design.git))
 
-> Replace `your-username` and `your-repo-name` with your actual GitHub details.
+
 
 ---
 
